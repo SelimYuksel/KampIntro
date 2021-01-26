@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{34157019-6266-4AFF-B7B2-7D0E7C19C64C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{FDE04392-2CB0-418C-B21F-7603D09778A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{D3F7DACB-34C0-421C-B27C-0BF19C04B577}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{34157019-6266-4AFF-B7B2-7D0E7C19C64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34157019-6266-4AFF-B7B2-7D0E7C19C64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34157019-6266-4AFF-B7B2-7D0E7C19C64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE04392-2CB0-418C-B21F-7603D09778A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE04392-2CB0-418C-B21F-7603D09778A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE04392-2CB0-418C-B21F-7603D09778A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE04392-2CB0-418C-B21F-7603D09778A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F7DACB-34C0-421C-B27C-0BF19C04B577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F7DACB-34C0-421C-B27C-0BF19C04B577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F7DACB-34C0-421C-B27C-0BF19C04B577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F7DACB-34C0-421C-B27C-0BF19C04B577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
