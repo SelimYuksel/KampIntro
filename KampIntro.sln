@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Di
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{FDE04392-2CB0-418C-B21F-7603D09778A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{D3F7DACB-34C0-421C-B27C-0BF19C04B577}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{D3F7DACB-34C0-421C-B27C-0BF19C04B577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{48C63E30-D001-495A-AA10-17B13E426DF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{D3F7DACB-34C0-421C-B27C-0BF19C04B577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3F7DACB-34C0-421C-B27C-0BF19C04B577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3F7DACB-34C0-421C-B27C-0BF19C04B577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C63E30-D001-495A-AA10-17B13E426DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C63E30-D001-495A-AA10-17B13E426DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C63E30-D001-495A-AA10-17B13E426DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C63E30-D001-495A-AA10-17B13E426DF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
